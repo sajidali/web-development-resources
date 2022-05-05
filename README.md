@@ -53,21 +53,22 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 
 ## Hosting:
 
-| Website |
-| ------- |
-| https://netlify.com | 
-| https://firebase.google.com |  
-| https://aws.amazon.com |  
-| https://heroku.com |  
-| https://pages.github.com |  
-| https://vercel.com |  
-| https://surge.sh |  
-| https://render.com |  
-| https://docs.gitlab.com/ee/user/project/pages |  
-| https://stormkit.io |  
-| https://www.digitalocean.com/ |
-| https://www.000webhost.com/ |
-| https://infinityfree.net/ |
+| Website | Description |
+| ------- |:--------|
+| https://netlify.com | **Netlify** unites an entire ecosystem of modern tools and services into a single, simple workflow for building high performance sites and apps. |
+| https://firebase.google.com | **Firebase** helps you build and run successful apps. It is backed by Google and loved by app development teams - from startups to global enterprises |
+| https://aws.amazon.com |  **Amazon** Web Services offers a broad set of global cloud-based products and services help organizations move faster, lower IT costs, and scale. |
+| https://heroku.com | **Heroku** is the platform for building with modern architectures, innovating quickly, and scaling precisely to meet demand. It helps you focus and invest in your apps and not ops.  |
+| https://pages.github.com |  **GitHub** Pages are websites for you and your projects. It is hosted directly from your GitHub repository. You just have to edit, push, and your changes are live. |
+| https://vercel.com | **Vercel** combines the best developer experience with an obsessive focus on end-user performance. It enables frontend teams to do their best work. You just have to develop preview and ship.  |
+| https://surge.sh | **Surge** is static web publishing for Front-End Developers. It is simple, single-command web publishing. It publishes HTML, CSS, and JS for free, without leaving the command line.  |
+| https://render.com | **Render** is a unified cloud to build and run all your apps and websites with free TLS certificates, a global CDN, DDoS protection, private networks, and auto deploys from Git.  |
+| https://docs.gitlab.com/ee/user/project/pages | **GitLab** Pages - static websites directly from a repository in GitLab. To publish a website one can use any static site generator or any plain written HTML, CSS, and JavaScript.  |
+| https://stormkit.io | **Stormkit** can easily manage your frontend infrastructure. It integrates perfectly with your git flow. It helps you build, deploy and scale your web apps seamlessly.  |
+| https://www.digitalocean.com/ | **DigitalOcean** has the cloud computing services you need, with predictable pricing, robust documentation, and scalability to support your growth at any stage. It is simpler cloud for happier devs to have better results. |
+| https://www.000webhost.com/ | **000webhostapp** is zero cost website hosting with PHP, MySQL, Cpanel & no ads. Its servers use advanced firewalls and include DDoS protection.|
+| https://infinityfree.net/ |**InfinityFree** is fully featured, completely free website hosting with PHP, MySQL and no ads on site. |
+| https://pages.cloudflare.com/ |**Cloudflare Pages** is a JAMstack platform for frontend developers to collaborate and deploy websites. It offers free unlimited bandwidth. |
 
 [⬆ back to top](#table-of-contents)
 
@@ -100,6 +101,9 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | https://bento.io/ |
 | https://fullstackopen.com/en/ |
 | https://upskillcourses.com/courses |
+| https://www.geeksforgeeks.org/web-development/ |
+| https://hackdesign.org/lessons |
+| https://javatpoint.com |
 
 
 [⬆ back to top](#table-of-contents)
@@ -129,6 +133,9 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | https://100dayscss.com |
 | https://codepip.com |
 | https://triplebyte.com |
+| https://www.w3schools.com/codegame/index.html |
+| https://edabit.com |
+
 
 [⬆ back to top](#table-of-contents)
 
@@ -146,6 +153,9 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | https://fiverr.com |  
 | https://hireable.com |  
 | https://6nomads.com |  
+| https://www.truelancer.com/ |
+| https://www.gun.io/ |  
+| https://www.refrens.com |
 
 [⬆ back to top](#table-of-contents)
 
@@ -158,12 +168,16 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | https://justremote.co |  
 | https://weworkremotely.com |  
 | https://remoteok.io |  
+| https://himalayas.app |
 | https://jobspresso.co | 
 | https://wfh.io |  
 | https://4dayweek.io |
 | https://www.hiretechladies.com/ |  
 | https://rafo.com.au/ |  
 | https://nowhiteboard.org/ |  
+| https://www.coolstartupjobs.com/ |  
+| https://angel.co |  
+| https://www.smartremotejobs.com |
 
 [⬆ back to top](#table-of-contents)
 
@@ -188,6 +202,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 
 | Website |
 | ------- |
+| https://icons8.com/illustrations |
 | https://www.opendoodles.com |
 | https://undraw.co/illustrations |  
 | https://drawkit.io |  
@@ -214,21 +229,25 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | https://iconmonstr.com | 
 | https://heroicons.com |
 | https://boxicons.com |
-| https://css.gg/ |
-| https://lineicons.com/ |
-| https://icons.eosdesignsystem.com/ |
+| https://css.gg |
+| https://lineicons.com |
+| https://icons.eosdesignsystem.com |
 | https://icons.modulz.app |
 | https://remixicon.com |
 | https://tablericons.com |
 | https://simpleicons.org |
 | https://feathericons.com |
-| https://svgrepo.com/ |
+| https://svgrepo.com |
 | https://iconic.app |
-| https://icomoon.io/ |
+| https://icomoon.io |
 | https://iconscout.com/unicons |
 | https://holasvg.com/icons |
-| https://fontello.com/ |
-| https://fontastic.me/ |
+| https://fontello.com |
+| https://fontastic.me |
+| https://ionic.io/ionicons |
+| https://icons.getbootstrap.com |
+|https://react-icons.github.io/react-icons|
+| https://www.iconspedia.com/ |
 
 [⬆ back to top](#table-of-contents)
 
@@ -243,6 +262,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | https://ffonts.net |  
 | https://fontfabric.com |  
 | https://urbanfonts.com |  
+| https://www.fontpair.co/ |
 
 [⬆ back to top](#table-of-contents)
 
@@ -272,8 +292,11 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | [JavaScript Mastery](https://www.youtube.com/c/JavaScriptMastery) |
 | [Adrian Twarog](https://www.youtube.com/channel/UCvM5YYWwfLwpcQgbRr68JLQ) |
 | [Wes Bos](https://www.youtube.com/wesbos) |
-| [Adrian Twarog](https://www.youtube.com/channel/UCvM5YYWwfLwpcQgbRr68JLQ) | 
 | [DesignCourse](https://www.youtube.com/c/DesignCourse) |
+| [codedamn](https://www.youtube.com/c/codedamn) |
+| [ProgrammingWithMosh](https://www.youtube.com/c/programmingwithmosh) |
+| [Fireship](https://www.youtube.com/c/Fireship)|
+| [Codevolution](https://www.youtube.com/c/Codevolution)|
 
 [⬆ back to top](#table-of-contents)
 
@@ -286,7 +309,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | [The Changelog](https://changelog.com/) |  
 | [The Laracasts Snippet](https://laracasts.com/podcast) |  
 | [Front End Happy Hour](https://frontendhappyhour.com/) |  
-| [JavaScript Jabber](https://devchat.tv/podcasts/js-jabber/) |  
+| [JavaScript Jabber](https://javascriptjabber.com/) |  
 | [Commit Your Code!](https://anchor.fm/commityourcode) |  
 | [Shop Talk](https://shoptalkshow.com/) |  
 | [Ladybug Podcast](https://www.ladybug.dev/) |  
@@ -309,6 +332,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | [Sublime Text](https://www.sublimetext.com/) |  
 | [Atom](https://atom.io/) |  
 | [Brackets](http://brackets.io/) |  
+| [emacs](https://www.gnu.org/software/emacs/) |  
 | [Vim](https://www.vim.org/) |  
 | [Spacemacs](https://www.spacemacs.org/) |
 | [Emacs](https://www.gnu.org/software/emacs/) |
@@ -330,8 +354,11 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | https://htmlcolorcodes.com |
 | https://colorsinspo.com |
 | https://uigradients.com |
-| https://www.colorion.co/ |
+| https://www.colorion.co |
 | https://www.gradientos.app |
+| https://www.eggradients.com |
+| https://cssgradient.io |
+| https://www.0to255.com |
 
 [⬆ back to top](#table-of-contents)
 
@@ -347,7 +374,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | https://dribbble.com |
 | https://onepagelove.com |
 | https://www.behance.net |
-| https://uidesigndaily.com |
+| https://tympanus.net |
 
 [⬆ back to top](#table-of-contents)
 
@@ -359,7 +386,6 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | https://w3schools.com |  
 | https://w3docs.com |  
 | https://devdocs.io |  
-| https://free-for.dev |  
 
 [⬆ back to top](#table-of-contents)
 
@@ -378,13 +404,13 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | [Tuesday](http://shakrmedia.github.io/tuesday/) |  
 | [Mo.js](https://mojs.github.io/)|  
 | [Bounce.js](http://bouncejs.com/) | 
-| [tsParticles](https://particles.matteobruni.it) |
 | [AOS](https://michalsnik.github.io/aos/) |
 | [Velocity.js](http://velocityjs.org/) |
 | [Popmotion](https://popmotion.io/) |
 | [Snap.svg](http://snapsvg.io/) |
 | [Animista](https://animista.net/) |
 | [Lottie-Player](https://lottiefiles.com/web-player) |
+| [Framer motion](https://www.framer.com/motion) |
 
 [⬆ back to top](#table-of-contents)
 
@@ -416,6 +442,9 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | [Performance-Analyser](https://chrome.google.com/webstore/detail/performance-analyser/djgfmlohefpomchfabngccpbaflcahjf) |
 | [WhatFont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=en) |  
 | [Visbug](https://chrome.google.com/webstore/detail/visbug/cdockenadnadldjbbgcallicgledbeoc/related) |
+| [Colorzilla](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp?hl=en-US) |
+|[Window Resizer](https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh?hl=en)|
+|[GitHunt](https://chrome.google.com/webstore/detail/githunt/khpcnaokfebphakjgdgpinmglconplhp?hl=en)|
 
 [⬆ back to top](#table-of-contents)
 
@@ -428,7 +457,8 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | [WebPageTest](https://www.webpagetest.org) |  
 | [Yslow](http://yslow.org/) | 
 | [web.dev](https://web.dev/measure/) | 
-| [asayer](https://asayer.io/) | Ps.: Has a great Blog
+| [asayer](https://asayer.io/) | Ps.: Has a great Blog |
+| [Optimizilla](https://imagecompressor.com/)|
 
 [⬆ back to top](#table-of-contents)
 
@@ -436,7 +466,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 
 | Website |
 | ------- |
-| https://inovatik.com | 
+| https://htmlrev.com | 
 | https://www.tooplate.com | 
 | https://html5up.net | 
 | https://templatemo.com | 
@@ -446,8 +476,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | https://bootstrapmade.com |
 | https://graygrids.com |
 | https://tailwindtemplates.co/ |
-
-
+| https://themeselection.com/ |
 
 [⬆ back to top](#table-of-contents)
 
@@ -476,14 +505,23 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | [Layoutit Grid](https://grid.layoutit.com/) | Quickly design web layouts, and get HTML and CSS code. Learn CSS Grid visually and build web layouts with our interactive CSS Grid Generator. |
 | [CSS Gradient Editor](https://cssgradienteditor.com/) | You may only need this tool for creating CSS gradients and patterns. |
 | [Hola SVG Loaders Generator](https://holasvg.com/loaders/) | SVG Loaders Generator with Sass and SMIL options |
+| [Shape Divider](https://www.shapedivider.app/) | A free tool to make it easier for designers and developers to export a beautiful SVG shape divider for their latest project. |
+| [BEAUBUS Patterns](https://patterns.beaubus.com/) | 150+ free SVG patterns and CSS background images generator  |
+|[9elements - Fancy Border Radius](https://9elements.github.io/fancy-border-radius/)|9elements is a little tool, that helps you create your very own organic shape. When you use four/eight values specifying border-radius in CSS, you can create organic looking shapes.|
+|[Blobmaker](https://www.blobmaker.app/)|Blobmaker is a free generative design tool made with 💕 by z creative labs, to help you quickly create random, unique, and organic-looking SVG shapes.|
+| [Toptal CSS3 Generator](https://www.toptal.com/developers/css3maker) | A free online tool for quickly generating CSS3 snippets, such as for effects, gradients and animations. |
 
 ## Online Tools:
 
 | Website | Description |
 | ------- | ------ |
+| [PRM](https://prm.pushkaryadav.in/) | Project & Profile Readme Maker : easiest way to create amazing readme's for your github projects and profile |
 | [QR Code Generator](https://markodenic.com/tools/qr-code-generator/) | Use QR code generator to easily create a QR code for your project. |
 | [Google Analytics Checker](https://www.statsglitch.com/google-analytics-checker) | Scan your project to ensure that Google Analytcs tag is properly set. |
 | [Gradient Art](https://gra.dient.art/) | An advanced CSS gradient editor with layering, design tools and free cloud storage |
+| [JSONT](https://www.jsont.run/) | A simple and powerful JSON formatting tool |
+| [Codepng](https://codepng.app/) | Convert your source code into awesome shareable images |
+| [yuyu.ai](https://yuyu.ai/) |  Is a frontend ai tool to generate html and css instantly from a jpg or png file. |
 
 [⬆ back to top](#table-of-contents)
 
@@ -492,8 +530,9 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | Website | Description |
 | ------- | ------ |
 | [CssLayout](https://csslayout.io/) | A site with multiple css code snippets for very frequently used components in day to day web pages | 
-| [TailGrids](http://tailgrids.com/) | Handcrafted Tailwind CSS UI Components | 
-| [Ayro UI Bootstrap](https://ayroui/) | Bootstrap UI components for modern web apps |
+| [TailGrids](https://tailgrids.com/) | 300+ Free and Premium Tailwind CSS UI Components and Sections | 
+| [Ayro UI Bootstrap](https://ayroui.com/) | Bootstrap UI components, snippets and sections for modern web apps |
+| [UI Hut](https://www.uihut.com/home) | Free (and premium) UI compontents or templates for Bootstrap, figma, XD, PSD etc.. | 
 
 
 [⬆ back to top](#table-of-contents)
@@ -515,6 +554,9 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | [Material-UI](https://material-ui.com/) | Simple and customizable component library to build faster, beautiful, and more accessible React applications. |
 | [Ant Design](https://ant.design/) | An enterprise-class UI design language and React UI library. |
 | [React Bootstrap](https://react-bootstrap.github.io/) | Bootstrap components built with React. |
+| [Semantic UI React](https://react.semantic-ui.com/) | Semantic UI React is the official React integration for Semantic UI . |
+| [Chakra UI](https://chakra-ui.com/) | A simple, modular and accessible component library that gives you the building blocks you need to build your React applications
+| [NativeBase](https://nativebase.io/) | NativeBase is an accessible, utility-first component library that helps you build consistent UI across Android, iOS and Web. |
 
 
 [⬆ back to top](#table-of-contents)
@@ -524,6 +566,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | Website | Description |
 | ------- | ------ |
 | [Taiga UI](https://taiga-ui.dev/) | A powerful set of open source components for Angular |
+| [PrimeNG](https://www.primefaces.org/primeng/) | Angular UI Component Library featuring elegant, high-performance, accessible and fully customizable UI Components. |
 
 [⬆ back to top](#table-of-contents)
 
@@ -531,12 +574,15 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 
 | Website | Description |
 | ------- | ------ |
+| [MDB: Markdwon Badges](https://mdb.pushkaryadav.in/)| Generate amazing svg markdown badges within few clicks |
 | [Markdown Preview](https://freecodetools.org/markdown-preview/) | Markdown Editor with instant preview using GitHub CSS. |
 | [JavaScript Quiz](https://javascriptquiz.com) | JavaScript Quiz - Check your knowledge by having fun. |
 | [CookieBubble](https://cookiebubble.netlify.app) | The easy way to inform users that your website is using cookies. |
 | [Developer Updates](https://www.developerupdates.com) | Keeps you updated one everything going on in the software developement world |
 | [Boxy SVG Editor](https://boxy-svg.com/) | SVG Editing Tool - Here you can easily edit and save any SVG file |
 | [Cssrepo](https://cssrepo.com/)| A curated list of awesome frameworks, style guides, and other cool nuggets for writing amazing CSS |
+| [Web Searcher](https://websearcher.vercel.app/)| Create Open Graph, Twitter and basic meta tags easily |
+| [MakeMeta](https://makemeta.app/)| Effortlessly generate Meta Tags for your website! |
 
 ## Icons:
 
