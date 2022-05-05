@@ -594,7 +594,6 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | https://icons.coreui.io/icons |
 | https://material-ui.com/components/material-icons |
 | https://ikonate.com |
-| https://ionic.io/ionicons |
 | https://uxwing.com |
 | https://uxwing.com/svg-icon-editor |
 | https://thenounproject.com |
