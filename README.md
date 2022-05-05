@@ -538,6 +538,21 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | [Boxy SVG Editor](https://boxy-svg.com/) | SVG Editing Tool - Here you can easily edit and save any SVG file |
 | [Cssrepo](https://cssrepo.com/)| A curated list of awesome frameworks, style guides, and other cool nuggets for writing amazing CSS |
 
+## Icons:
+
+| Website |
+| ------- |
+| https://github.com/bytedance/IconPark |
+| https://icons.mono.company |
+| https://teenyicons.com |
+| https://icons.coreui.io/icons |
+| https://material-ui.com/components/material-icons |
+| https://ikonate.com |
+| https://ionic.io/ionicons |
+| https://uxwing.com |
+| https://uxwing.com/svg-icon-editor |
+| https://thenounproject.com |
+
 [⬆ back to top](#table-of-contents)
 
 [awesome-badge]: https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
