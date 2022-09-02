@@ -608,4 +608,16 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | ------- | ------ |
 | [The System Design Primer](https://github.com/donnemartin/system-design-primer)| Learn how to design large-scale systems |
 
+
+## Track and tracing:
+
+| Website | Description |
+| ------- | ------ |
+| [FullStory](https://www.fullstory.com/)| Tracing and playback user actions, Session recordings and session replays |
+| [logrocket](https://logrocket.com/)| Tracing and playback user actions, Session recordings and session replays |
+| [highlight.run](https://highlight.run/)| Tracing and playback user actions, Session recordings and session replays |
+| [papertrail](https://www.papertrail.com/)| Server Logs monitoring and query |
+| [axiom.co](https://axiom.co/)| Server Logs monitoring and query |
+| [splunk](https://www.splunk.com/)| Tracing and playback user actions |
+
 [⬆ back to top](#table-of-contents)
