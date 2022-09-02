@@ -619,7 +619,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | [papertrail](https://www.papertrail.com/)| Server Logs monitoring and query |
 | [axiom.co](https://axiom.co/)| Server Logs monitoring and query |
 | [splunk](https://www.splunk.com/)| Tracing and playback user actions |
-| [sentry.io]([https://www.splunk.com/](https://sentry.io/))| Full Stack Monitoring |
+| [sentry.io](https://sentry.io/)| Full Stack Monitoring |
 
 
 [⬆ back to top](#table-of-contents)
