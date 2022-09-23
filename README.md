@@ -624,4 +624,12 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | [sentry.io](https://sentry.io/)| Full Stack Monitoring |
 
 
+## Load testing:
+
+| Website | Description |
+| ------- | ------ |
+| [Oha](https://lib.rs/install/oha)| Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation |
+| [K6.io](https://k6.io/)| Open source load testing tool and SaaS for engineering teams by graphana labs |
+
+
 [⬆ back to top](#table-of-contents)
