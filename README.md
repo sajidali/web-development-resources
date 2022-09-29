@@ -639,4 +639,12 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | https://www.landingfolio.com |
 
 
+## Security SAST DAST tools:
+
+| Website | Description |
+| ------- | ------ |
+| [https://www.sonarqube.org](https://www.sonarqube.org) | Code Quality and Code Security SonarQube empowers all developers to write cleaner and safer code |
+| [https://horusec.io/site](https://horusec.io/site/) | IDENTIFY VULNERABILITIES SIMPLE AND FAST |
+
+
 [⬆ back to top](#table-of-contents)
